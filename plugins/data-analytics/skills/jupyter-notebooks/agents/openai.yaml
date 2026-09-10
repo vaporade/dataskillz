@@ -1,2 +1,0 @@
-interface: { display_name: "Jupyter Notebooks", short_description: "Build reproducible analytical notebooks" }
-policy: { allow_implicit_invocation: true }
