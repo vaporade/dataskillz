@@ -1,0 +1,19 @@
+{
+  "name": "dataskillz-data-analytics",
+  "version": "1.0.0",
+  "description": "An independently authored data analytics skill suite for reliable analysis, reporting, dashboards, metrics, and reusable data context.",
+  "author": { "name": "vaporade" },
+  "repository": "https://github.com/vaporade/dataskillz",
+  "license": "MIT",
+  "keywords": ["data", "analytics", "dashboards", "reports", "metrics", "kpis"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "DataSkillz Data Analytics",
+    "shortDescription": "Analyze, visualize, and communicate reliable data",
+    "longDescription": "A practical suite for reliable data analysis, quality assessment, dashboards, reports, KPI systems, and evidence-based decision support.",
+    "developerName": "vaporade",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write", "Interactive"],
+    "defaultPrompt": ["Analyze this business question", "Build a dashboard from this CSV", "Diagnose this metric change"]
+  }
+}
