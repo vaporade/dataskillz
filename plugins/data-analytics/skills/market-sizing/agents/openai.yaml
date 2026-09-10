@@ -1,0 +1,2 @@
+interface: { display_name: "Market Sizing", short_description: "Estimate market or opportunity size" }
+policy: { allow_implicit_invocation: true }
