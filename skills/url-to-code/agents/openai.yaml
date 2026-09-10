@@ -1,0 +1,6 @@
+interface:
+  display_name: "URL To Code"
+  short_description: "Recreate a permitted live site as a local frontend"
+  default_prompt: "Recreate this site as a local prototype"
+policy:
+  allow_implicit_invocation: true
