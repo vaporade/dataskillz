@@ -1,6 +1,0 @@
-interface:
-  display_name: "Design QA"
-  short_description: "Compare a prototype with its visual source"
-  default_prompt: "Review this prototype against its design"
-policy:
-  allow_implicit_invocation: false
