@@ -1,0 +1,6 @@
+interface:
+  display_name: "Get Context"
+  short_description: "Clarify a design brief before building"
+  default_prompt: "Help me design a product experience"
+policy:
+  allow_implicit_invocation: false
