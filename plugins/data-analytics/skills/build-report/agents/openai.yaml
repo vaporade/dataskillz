@@ -1,0 +1,2 @@
+interface: { display_name: "Build Report", short_description: "Create analytical reports" }
+policy: { allow_implicit_invocation: true }
