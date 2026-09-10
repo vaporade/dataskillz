@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product Audit"
+  short_description: "Audit product UX, design, and accessibility"
+  default_prompt: "Audit this product flow"
+policy:
+  allow_implicit_invocation: true
