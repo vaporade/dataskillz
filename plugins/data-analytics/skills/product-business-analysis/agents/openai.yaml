@@ -1,2 +1,0 @@
-interface: { display_name: "Product Analysis", short_description: "Analyze data for a business decision" }
-policy: { allow_implicit_invocation: true }
