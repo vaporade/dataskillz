@@ -1,0 +1,2 @@
+interface: { display_name: "Visualize Data", short_description: "Create reliable data visualizations" }
+policy: { allow_implicit_invocation: true }
