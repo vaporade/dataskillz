@@ -1,0 +1,2 @@
+interface: { display_name: "Share Summary", short_description: "Summarize an existing data artifact" }
+policy: { allow_implicit_invocation: false }
