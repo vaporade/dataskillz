@@ -1,2 +1,0 @@
-interface: { display_name: "Convert To Doc", short_description: "Turn data artifacts into documents" }
-policy: { allow_implicit_invocation: false }
