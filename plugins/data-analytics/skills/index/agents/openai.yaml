@@ -1,2 +1,0 @@
-interface: { display_name: "Data Analytics", short_description: "Route data work to a focused workflow" }
-policy: { allow_implicit_invocation: true }
