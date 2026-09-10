@@ -1,2 +1,0 @@
-interface: { display_name: "Schedule Refresh", short_description: "Schedule recurring artifact refreshes" }
-policy: { allow_implicit_invocation: false }
