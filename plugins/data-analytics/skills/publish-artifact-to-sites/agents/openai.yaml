@@ -1,2 +1,0 @@
-interface: { display_name: "Publish Artifact", short_description: "Publish a verified data artifact" }
-policy: { allow_implicit_invocation: false }
