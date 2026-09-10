@@ -1,0 +1,2 @@
+interface: { display_name: "Convert To Slides", short_description: "Turn data artifacts into slide decks" }
+policy: { allow_implicit_invocation: false }
