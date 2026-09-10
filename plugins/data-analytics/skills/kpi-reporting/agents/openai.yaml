@@ -1,2 +1,0 @@
-interface: { display_name: "KPI Reporting", short_description: "Prepare operating metric readouts" }
-policy: { allow_implicit_invocation: true }
