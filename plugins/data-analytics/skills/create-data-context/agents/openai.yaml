@@ -1,2 +1,0 @@
-interface: { display_name: "Data Context", short_description: "Maintain reusable analytical context" }
-policy: { allow_implicit_invocation: true }
