@@ -1,0 +1,6 @@
+interface:
+  display_name: "UX Research"
+  short_description: "Research current user pain and workflow friction"
+  default_prompt: "Research user friction for this product"
+policy:
+  allow_implicit_invocation: true
