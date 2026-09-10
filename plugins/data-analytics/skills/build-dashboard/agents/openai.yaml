@@ -1,2 +1,0 @@
-interface: { display_name: "Build Dashboard", short_description: "Create source-backed dashboards" }
-policy: { allow_implicit_invocation: true }
