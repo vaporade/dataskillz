@@ -1,0 +1,2 @@
+interface: { display_name: "Data Quality", short_description: "Assess dataset trustworthiness" }
+policy: { allow_implicit_invocation: true }
