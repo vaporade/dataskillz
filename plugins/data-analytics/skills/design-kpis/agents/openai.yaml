@@ -1,0 +1,2 @@
+interface: { display_name: "Design KPIs", short_description: "Design measurement frameworks and targets" }
+policy: { allow_implicit_invocation: true }
