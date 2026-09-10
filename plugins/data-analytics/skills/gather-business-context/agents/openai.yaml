@@ -1,2 +1,0 @@
-interface: { display_name: "Business Context", short_description: "Gather analytical framing and source context" }
-policy: { allow_implicit_invocation: true }
