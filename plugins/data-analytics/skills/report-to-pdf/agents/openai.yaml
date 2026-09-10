@@ -1,2 +1,0 @@
-interface: { display_name: "Report To PDF", short_description: "Export a data artifact as PDF" }
-policy: { allow_implicit_invocation: false }
