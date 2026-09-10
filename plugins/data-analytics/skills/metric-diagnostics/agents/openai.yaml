@@ -1,0 +1,2 @@
+interface: { display_name: "Metric Diagnostics", short_description: "Investigate metric movements and anomalies" }
+policy: { allow_implicit_invocation: true }
