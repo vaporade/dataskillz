@@ -1,6 +1,0 @@
-interface:
-  display_name: "Image To Code"
-  short_description: "Build an interactive frontend from a selected design"
-  default_prompt: "Build this selected design as an interactive frontend"
-policy:
-  allow_implicit_invocation: true
