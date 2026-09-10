@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ideate"
+  short_description: "Generate distinct visual product directions"
+  default_prompt: "Create visual directions for my app idea"
+policy:
+  allow_implicit_invocation: true
