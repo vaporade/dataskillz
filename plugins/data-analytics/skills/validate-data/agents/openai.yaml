@@ -1,2 +1,0 @@
-interface: { display_name: "Validate Data", short_description: "Validate evidence, calculations, and conclusions" }
-policy: { allow_implicit_invocation: true }
