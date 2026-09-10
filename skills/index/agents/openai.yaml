@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product Design"
+  short_description: "Route product-design work to the right workflow"
+  default_prompt: "Help me get started with Product Design"
+policy:
+  allow_implicit_invocation: true
